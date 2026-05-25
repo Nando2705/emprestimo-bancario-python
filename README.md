@@ -1,2 +1,10 @@
 # emprestimo-bancario-python
-Exercício de aprovação de empréstimo bancário em Python.
+
+Programa em Python para simular aprovação de empréstimo bancário.
+
+## Regras
+- A prestação não pode ultrapassar 30% do salário.
+- O programa calcula automaticamente a prestação mensal.
+
+## Tecnologias
+- Python 3
